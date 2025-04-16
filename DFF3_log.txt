@@ -1,0 +1,59 @@
+DFF3: Reset activated. State set to x at time 0
+DFF3: Reset activated. State set to 0 at time 5
+DFF3 ERROR: State mismatch. Expected: x, Got: 0 at time 15
+DFF3 ERROR: State mismatch. Expected: 0, Got: x at time 25
+DFF3 ERROR: State mismatch. Expected: x, Got: 0 at time 35
+DFF3 ERROR: State mismatch. Expected: 0, Got: x at time 45
+DFF3 ERROR: State mismatch. Expected: x, Got: 0 at time 55
+DFF3 ERROR: State mismatch. Expected: 0, Got: x at time 65
+DFF3 ERROR: State mismatch. Expected: x, Got: 0 at time 75
+DFF3 ERROR: State mismatch. Expected: 0, Got: x at time 85
+DFF3 ERROR: State mismatch. Expected: x, Got: 0 at time 95
+DFF3 ERROR: State mismatch. Expected: 0, Got: x at time 105
+DFF3 ERROR: State mismatch. Expected: x, Got: 0 at time 115
+DFF3 ERROR: State mismatch. Expected: 0, Got: x at time 125
+DFF3 ERROR: State mismatch. Expected: x, Got: 0 at time 135
+DFF3 ERROR: State mismatch. Expected: 0, Got: x at time 145
+DFF3 ERROR: State mismatch. Expected: x, Got: 0 at time 155
+DFF3 ERROR: State mismatch. Expected: 0, Got: x at time 165
+DFF3 ERROR: State mismatch. Expected: x, Got: 0 at time 175
+DFF3 ERROR: State mismatch. Expected: 0, Got: x at time 185
+DFF3 ERROR: State mismatch. Expected: x, Got: 0 at time 195
+DFF3 ERROR: State mismatch. Expected: 0, Got: x at time 205
+DFF3 ERROR: State mismatch. Expected: x, Got: 0 at time 215
+DFF3 ERROR: State mismatch. Expected: 0, Got: x at time 225
+DFF3 ERROR: State mismatch. Expected: x, Got: 0 at time 235
+DFF3 ERROR: State mismatch. Expected: 0, Got: x at time 245
+DFF3 ERROR: State mismatch. Expected: x, Got: 0 at time 255
+DFF3 ERROR: State mismatch. Expected: 0, Got: x at time 265
+DFF3 ERROR: State mismatch. Expected: x, Got: 0 at time 275
+DFF3 ERROR: State mismatch. Expected: 0, Got: x at time 285
+DFF3 ERROR: State mismatch. Expected: x, Got: 0 at time 295
+DFF3 ERROR: State mismatch. Expected: 0, Got: x at time 305
+DFF3 ERROR: State mismatch. Expected: x, Got: 0 at time 315
+DFF3 ERROR: State mismatch. Expected: 0, Got: x at time 325
+DFF3 ERROR: State mismatch. Expected: x, Got: 0 at time 335
+DFF3 ERROR: State mismatch. Expected: 0, Got: x at time 345
+DFF3 ERROR: State mismatch. Expected: x, Got: 0 at time 355
+DFF3 ERROR: State mismatch. Expected: 0, Got: x at time 365
+DFF3 ERROR: State mismatch. Expected: x, Got: 0 at time 375
+DFF3 ERROR: State mismatch. Expected: 0, Got: x at time 385
+DFF3 ERROR: State mismatch. Expected: x, Got: 0 at time 395
+DFF3 ERROR: State mismatch. Expected: 0, Got: x at time 405
+DFF3 ERROR: State mismatch. Expected: x, Got: 0 at time 415
+DFF3: Reset activated. State set to x at time 420
+DFF3 ERROR: State mismatch. Expected: x, Got: 0 at time 425
+DFF3: Reset activated. State set to x at time 430
+DFF3 ERROR: State mismatch. Expected: x, Got: 0 at time 435
+DFF3 ERROR: State mismatch. Expected: 0, Got: x at time 445
+DFF3 ERROR: State mismatch. Expected: x, Got: 0 at time 455
+DFF3 ERROR: State mismatch. Expected: 0, Got: x at time 465
+DFF3 ERROR: State mismatch. Expected: x, Got: 0 at time 475
+DFF3 ERROR: State mismatch. Expected: 0, Got: x at time 485
+DFF3 ERROR: State mismatch. Expected: x, Got: 0 at time 495
+DFF3 ERROR: State mismatch. Expected: 0, Got: x at time 505
+DFF3 ERROR: State mismatch. Expected: x, Got: 0 at time 515
+DFF3 ERROR: State mismatch. Expected: 0, Got: x at time 525
+to 000000000 at time 505
+DFF3: Reset activated. State set to 000000000 at time 515
+DFF3 ERROR: State mismatch. Expected: xxxxxxxxx, Got: 000000000 at time 525
